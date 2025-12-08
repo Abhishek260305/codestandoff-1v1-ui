@@ -8,7 +8,7 @@ module.exports = {
         name: 'onevone',
         filename: 'static/chunks/remoteEntry.js',
         exposes: {
-          './OneVOne': './src/components/OneVOne',
+          './OneVOne': './pages/OneVOne',
         },
         shared: {
           react: {
