@@ -50,5 +50,5 @@ This application exposes the `OneVOne` component via Module Federation, which ca
 
 ## Repository
 
-https://github.com/Abhishek260305/1v1-ui
+https://github.com/Abhishek260305/codestandoff-1v1-ui
 
