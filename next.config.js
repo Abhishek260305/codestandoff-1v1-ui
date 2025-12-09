@@ -5,7 +5,7 @@ module.exports = {
     const { isServer } = options;
     config.plugins.push(
       new NextFederationPlugin({
-        name: 'onevone',
+        name: 'onevone_ui',
         filename: 'static/chunks/remoteEntry.js',
         exposes: {
           './OneVOne': './pages/OneVOne',
